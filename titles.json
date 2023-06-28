@@ -2,31 +2,43 @@
     {
         "title": "929",
         "value": "ישעיהו ל׳ (364)",
-        "filename": "content/929.json"
+        "filename": "content/929.json",
+        "ref": "Isaiah 30",
+        "enTitle": "929"
     },
     {
         "title": "משנה יומית",
         "value": "משנה סוכה א׳:ט׳-י׳",
-        "filename": "content/DailyMishnah.json"
+        "filename": "content/DailyMishnah.json",
+        "ref": "Mishnah Sukkah 1:9-10",
+        "enTitle": "Daily Mishnah"
     },
     {
         "title": "הרמב\"ם היומי",
         "value": "הלכות תפילה וברכת כהנים ה׳",
-        "filename": "content/DailyRambam.json"
+        "filename": "content/DailyRambam.json",
+        "ref": "Mishneh Torah, Prayer and the Priestly Blessing 5",
+        "enTitle": "Daily Rambam"
     },
     {
         "title": "הלכה יומית",
         "value": "שולחן ערוך, אורח חיים ת״נ:ד׳-ו׳",
-        "filename": "content/HalakhahYomit.json"
+        "filename": "content/HalakhahYomit.json",
+        "ref": "Shulchan Arukh, Orach Chayim 450:4-6",
+        "enTitle": "Halakhah Yomit"
     },
     {
         "title": "פרק תהילים יומי",
         "value": "פרקים מ\"ט-נ\"ד",
-        "filename": "content/Tehilim.json"
+        "filename": "content/Tehilim.json",
+        "ref": "",
+        "enTitle": "Tehilim Yomi"
     },
     {
         "title": "פרק אבות יומי",
         "value": "אבות, ה', ו'",
-        "filename": "content/Avot.json"
+        "filename": "content/Avot.json",
+        "ref": "",
+        "enTitle": "Avot Yomi"
     }
 ]
