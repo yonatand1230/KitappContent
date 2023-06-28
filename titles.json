@@ -1,32 +1,32 @@
 [
     {
         "title": "929",
-        "value": "ישעיהו כ״ט (363)",
+        "value": "ישעיהו ל׳ (364)",
         "filename": "content/929.json"
     },
     {
         "title": "משנה יומית",
-        "value": "משנה סוכה א׳:ז׳-ח׳",
+        "value": "משנה סוכה א׳:ט׳-י׳",
         "filename": "content/DailyMishnah.json"
     },
     {
         "title": "הרמב\"ם היומי",
-        "value": "הלכות תפילה וברכת כהנים ד׳",
+        "value": "הלכות תפילה וברכת כהנים ה׳",
         "filename": "content/DailyRambam.json"
     },
     {
         "title": "הלכה יומית",
-        "value": "שולחן ערוך, אורח חיים ת״נ:א׳-ג׳",
+        "value": "שולחן ערוך, אורח חיים ת״נ:ד׳-ו׳",
         "filename": "content/HalakhahYomit.json"
     },
     {
         "title": "פרק תהילים יומי",
-        "value": "פרקים מ\"ד-מ\"ח",
+        "value": "פרקים מ\"ט-נ\"ד",
         "filename": "content/Tehilim.json"
     },
     {
         "title": "פרק אבות יומי",
-        "value": "אבות, ה', ה'",
+        "value": "אבות, ה', ו'",
         "filename": "content/Avot.json"
     }
 ]
